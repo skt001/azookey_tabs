@@ -1,0 +1,5843 @@
+{
+  "identifier": "en_lower",
+  "language": "en_US",
+  "input_style": "direct",
+  "metadata": {
+    "custard_version": "1.2",
+    "display_name": "iPhone風 English qwerty (lower)"
+  },
+  "interface": {
+    "key_style": "pc_style",
+    "key_layout": {
+      "type": "grid_fit",
+      "row_count": 10,
+      "column_count": 4
+    },
+    "keys": [
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "q"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "q"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "—"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "—"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "w"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "w"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẁ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẁ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẃ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẃ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẅ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẅ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "e"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "e"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "è"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "è"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "é"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "é"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ê"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ê"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ë"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ë"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ē"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ē"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĕ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĕ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ė"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ė"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ę"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ę"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ě"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ě"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẹ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẹ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẻ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẻ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẽ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẽ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ế"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ế"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ề"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ề"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ể"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ể"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ễ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ễ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ệ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ệ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 3,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "r"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "r"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŕ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŕ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŗ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŗ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ř"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ř"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɍ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɍ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɽ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɽ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṛ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṛ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṝ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṝ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṟ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṟ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "t"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "t"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ť"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ť"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŧ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŧ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ț"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ț"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ʈ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ʈ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṯ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṯ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṱ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṱ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "y"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "y"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ý"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ý"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ÿ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ÿ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŷ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŷ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƴ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƴ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỳ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỳ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỷ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỷ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỹ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỹ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 6,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "u"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "u"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ù"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ù"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ú"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ú"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "û"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "û"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ü"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ü"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ũ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ũ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ū"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ū"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ů"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ů"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ű"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ű"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ų"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ų"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ư"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ư"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǔ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǔ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ụ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ụ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ủ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ủ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ứ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ứ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ừ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ừ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ử"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ử"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ữ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ữ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ự"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ự"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "i"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "i"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ì"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ì"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "í"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "í"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "î"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "î"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ï"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ï"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĩ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĩ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ī"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ī"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "į"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "į"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ı"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ı"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǐ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǐ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỉ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỉ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ị"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ị"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "o"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "o"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ò"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ò"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ó"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ó"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ô"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ô"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "õ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "õ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ö"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ö"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ø"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ø"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ō"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ō"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŏ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŏ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ő"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ő"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "œ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "œ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ơ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ơ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǒ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǒ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǫ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǫ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ọ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ọ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỏ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỏ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ố"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ố"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ồ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ồ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ổ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ổ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỗ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỗ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ộ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ộ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ớ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ớ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ờ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ờ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ở"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ở"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ỡ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ỡ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ợ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ợ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 9,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "p"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "p"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƥ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƥ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṕ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṕ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṗ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṗ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "a"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "a"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "à"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "à"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "á"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "á"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "â"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "â"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ã"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ã"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ä"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ä"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "å"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "å"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "æ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "æ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ā"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ā"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ă"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ă"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ą"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ą"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǎ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǎ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǟ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǟ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǡ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǡ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǻ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǻ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ạ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ạ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ả"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ả"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ấ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ấ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ầ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ầ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẩ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẩ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẫ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẫ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ậ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ậ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ắ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ắ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ằ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ằ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẳ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẳ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ặ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ặ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "s"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "s"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ß"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ß"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ś"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ś"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŝ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŝ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ş"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ş"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "š"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "š"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ș"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ș"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ʂ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ʂ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṡ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṡ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṣ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṣ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "d"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "d"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ð"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ð"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ď"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ď"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "đ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "đ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƌ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƌ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƍ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƍ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɗ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɗ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḍ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḍ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḏ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḏ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḑ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḑ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḓ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḓ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 3.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "f"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "f"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƒ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƒ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḟ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḟ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "g"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "g"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĝ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĝ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ğ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ğ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ġ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ġ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ģ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ģ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǥ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǥ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǧ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǧ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɠ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɠ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɣ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɣ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḡ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḡ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "h"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "h"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĥ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĥ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ħ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ħ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ȟ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ȟ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɦ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɦ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḥ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḥ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḧ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḧ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḩ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḩ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḫ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḫ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 6.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "j"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "j"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǰ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǰ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "k"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "k"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ķ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ķ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƙ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƙ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǩ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǩ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḱ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḱ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḳ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḳ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḵ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḵ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8.5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "l"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "l"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĺ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĺ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ļ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ļ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ľ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ľ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŀ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŀ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ł"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ł"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƚ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƚ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɬ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɬ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɭ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɭ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḷ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḷ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḹ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḹ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḻ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḻ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḽ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḽ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 2,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "⇧"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "move_tab",
+              "tab_type": "custom",
+              "identifier": "en_upper"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "z"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "z"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ź"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ź"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ż"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ż"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ž"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ž"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƶ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƶ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǯ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǯ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ȥ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ȥ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ʒ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ʒ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẑ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẑ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ẓ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ẓ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "x"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "x"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "—"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "—"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 3.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "c"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "c"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ç"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ç"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ć"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ć"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ĉ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ĉ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ċ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ċ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "č"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "č"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƈ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƈ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ȼ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ȼ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḉ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḉ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "v"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "v"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ʋ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ʋ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṽ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṽ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṿ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṿ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "b"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "b"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƀ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƀ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ƃ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ƃ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɓ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɓ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḅ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḅ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḇ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḇ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 6.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "n"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "n"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ñ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ñ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ń"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ń"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ņ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ņ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ň"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ň"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ŋ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ŋ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ǹ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ǹ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɲ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɲ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɳ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɳ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṅ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṅ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṇ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṇ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṉ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṉ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṋ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṋ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7.5,
+          "y": 2,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "m"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "m"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ɱ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ɱ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ḿ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ḿ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṁ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṁ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ṃ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ṃ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8.5,
+          "y": 2,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "system_image": "delete.left"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "delete",
+              "count": 1
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": [
+              {
+                "type": "delete",
+                "count": 1
+              }
+            ]
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 3,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "system_image": "textformat.123"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "move_tab",
+              "tab_type": "custom",
+              "identifier": "en_numbers"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1.5,
+          "y": 3,
+          "width": 7,
+          "height": 1
+        },
+        "key_type": "system",
+        "key": {
+          "type": "qwerty_space",
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8.5,
+          "y": 3,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "system",
+        "key": {
+          "type": "enter",
+          "variations": []
+        }
+      }
+    ]
+  }
+}

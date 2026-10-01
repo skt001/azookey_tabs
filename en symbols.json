@@ -1,0 +1,2018 @@
+{
+  "identifier": "en_symbols",
+  "language": "en_US",
+  "input_style": "direct",
+  "metadata": {
+    "custard_version": "1.2",
+    "display_name": "iPhone風 English qwerty (symbols)"
+  },
+  "interface": {
+    "key_style": "pc_style",
+    "key_layout": {
+      "type": "grid_fit",
+      "row_count": 10,
+      "column_count": 4
+    },
+    "keys": [
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "["
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "["
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "]"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "]"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "{"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "{"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 3,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "}"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "}"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "#"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "#"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "%"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "%"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "‰"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "‰"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 6,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "^"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "^"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "*"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "*"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "×"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "×"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "+"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "+"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "±"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "±"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 9,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "="
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "="
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "≈"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "≈"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "≒"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "≒"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "≠"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "≠"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "_"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "_"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "\\"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "\\"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "|"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "|"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 3,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "~"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "~"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "<"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "<"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "‹"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "‹"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "≦"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "≦"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": ">"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": ">"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "›"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "›"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "≧"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "≧"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 6,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "$"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "$"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "¢"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "¢"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "£"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "£"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "¥"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "¥"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "฿"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "฿"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₠"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₠"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₡"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₡"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₢"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₢"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₣"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₣"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₤"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₤"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₥"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₥"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₦"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₦"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₧"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₧"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₩"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₩"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₪"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₪"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₫"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₫"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "€"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "€"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₭"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₭"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₮"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₮"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₯"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₯"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₰"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₰"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₱"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₱"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₲"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₲"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₳"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₳"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₴"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₴"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₵"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₵"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₶"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₶"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₷"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₷"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₸"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₸"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₹"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₹"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₺"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₺"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₼"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₼"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₽"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₽"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "₾"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "₾"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "＄"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "＄"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "￥"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "￥"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "€"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "€"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "£"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "£"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 9,
+          "y": 1,
+          "width": 1,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "•"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "•"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 2,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "system_image": "textformat.123"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "move_tab",
+              "tab_type": "custom",
+              "identifier": "en_numbers"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1.5,
+          "y": 2,
+          "width": 1.4,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "."
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "."
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "·"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "·"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "…"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "…"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 2.9,
+          "y": 2,
+          "width": 1.4,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": ","
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": ","
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 4.3,
+          "y": 2,
+          "width": 1.4,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "?"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "?"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "¿"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "¿"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 5.699999999999999,
+          "y": 2,
+          "width": 1.4,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "!"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "!"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "¡"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "¡"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 7.1,
+          "y": 2,
+          "width": 1.4,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "'"
+            },
+            "color": "normal"
+          },
+          "press_actions": [
+            {
+              "type": "input",
+              "text": "'"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": [
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "`"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "`"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "ʼ"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "ʼ"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "‘"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "‘"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            },
+            {
+              "type": "longpress_variation",
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "’"
+                  }
+                },
+                "press_actions": [
+                  {
+                    "type": "input",
+                    "text": "’"
+                  }
+                ],
+                "longpress_actions": {
+                  "duration": "normal",
+                  "start": [],
+                  "repeat": []
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8.5,
+          "y": 2,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "system_image": "delete.left"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "delete",
+              "count": 1
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": [
+              {
+                "type": "delete",
+                "count": 1
+              }
+            ]
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 0,
+          "y": 3,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "custom",
+        "key": {
+          "design": {
+            "label": {
+              "text": "ABC"
+            },
+            "color": "special"
+          },
+          "press_actions": [
+            {
+              "type": "move_tab",
+              "tab_type": "custom",
+              "identifier": "en_lower"
+            }
+          ],
+          "longpress_actions": {
+            "duration": "normal",
+            "start": [],
+            "repeat": []
+          },
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 1.5,
+          "y": 3,
+          "width": 7,
+          "height": 1
+        },
+        "key_type": "system",
+        "key": {
+          "type": "qwerty_space",
+          "variations": []
+        }
+      },
+      {
+        "specifier_type": "grid_fit",
+        "specifier": {
+          "x": 8.5,
+          "y": 3,
+          "width": 1.5,
+          "height": 1
+        },
+        "key_type": "system",
+        "key": {
+          "type": "enter",
+          "variations": []
+        }
+      }
+    ]
+  }
+}
