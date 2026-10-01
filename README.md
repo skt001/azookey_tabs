@@ -8,12 +8,14 @@ azooKey 向けの QWERTY キーボードレイアウト定義と、ロングプ�
 
 | パス | 説明 |
 |------|------|
-| `layouts/en/` | 英語 QWERTY レイアウト（lower / upper / numbers / symbols） |
-| `layouts/ja/` | 日本語 QWERTY レイアウト（lower / upper / numbers / symbols） |
+| `en lower.json` など | 英語 QWERTY レイアウト（lower / upper / numbers / symbols） |
+| `ja lower.json` など | 日本語 QWERTY レイアウト（lower / upper / numbers / symbols） |
 | `docs/design-criteria.md` | ロングプレス候補の設計基準（統合版） |
 | `docs/en-qwerty-longpress-all.md` | 英語ロングプレス候補の完成一覧 |
 | `docs/jp-qwerty-longpress-all.md` | 日本語ロングプレス候補の完成一覧 |
 | `docs/azookey-key-inventory.md` | 物理キー一覧（実在キーの確認用） |
+
+> 注: レイアウト JSON は現在ルートに配置しています。今後 `layouts/en/` `layouts/ja/` への整理を検討します。
 
 ## レイアウト JSON について
 
